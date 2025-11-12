@@ -8,7 +8,7 @@ export default function About() {
           <div className="relative group">
             <div className="absolute inset-0 bg-gradient-to-br from-[#00B8E6] to-[#8B4DFF] rounded-lg blur-xl opacity-20 group-hover:opacity-40 transition-opacity duration-300" />
             <img
-              src="/Gemini_Generated_Image_dspyy4dspyy4dspy copy.png"
+              src="/Untitled design (2)[1].png"
               alt="Contestant"
               className="relative rounded-lg shadow-2xl w-full h-[600px] object-cover"
             />
