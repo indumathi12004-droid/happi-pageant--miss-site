@@ -33,7 +33,7 @@ export default function Header() {
       <nav className="max-w-7xl mx-auto px-4 md:px-12 py-4">
         <div className="flex items-center justify-between">
           <img
-            src="/public/WhatsApp Image 2025-11-01 at 23.24.06_c3b39b4c.jpg"
+            src="/WhatsApp Image 2025-11-01 at 23.24.07_ddb5a4ff.jpg"
             alt="HAPPI MISS GLOBAL"
             className="h-12 w-auto cursor-pointer"
             onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
