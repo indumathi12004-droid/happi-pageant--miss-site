@@ -84,7 +84,7 @@ export default function Contact() {
                   </div>
                   <div>
                     <h4 className="text-white font-semibold mb-1">Address</h4>
-                    <p className="text-[#CFCFD5]">The Beginnings</p>
+                    <p className="text-[#CFCFD5]">The Beginning, Bengaluru, Karnataka</p>
                   </div>
                 </div>
 
