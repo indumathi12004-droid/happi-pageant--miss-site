@@ -7,7 +7,7 @@ export default function Footer() {
         <div className="grid md:grid-cols-3 gap-12 mb-12">
           <div className="space-y-6">
             <img
-              src="/public/WhatsApp Image 2025-11-01 at 23.24.06_c3b39b4c.jpg"
+              src="/WhatsApp Image 2025-11-01 at 23.24.07_ddb5a4ff.jpg"
               alt="HAPPI MISS GLOBAL"
               className="h-20 w-auto"
             />
