@@ -12,7 +12,7 @@ export default function Footer() {
               className="h-20 w-auto"
             />
             <p className="text-[#CFCFD5] text-sm leading-relaxed">
-              HAPPI Miss GLOBAL redefines pageantry as a celebration of youth, intellect, and purpose — empowering women to embody confidence with compassion.
+              Happi Miss Global redefines pageantry as a celebration of youth, intellect, and purpose — empowering women to embody confidence with compassion.
             </p>
             <div className="flex space-x-4">
               <a
@@ -87,7 +87,8 @@ Bengaluru, Karnataka</p>
               </div>
               <div className="flex items-start space-x-3">
                 <Mail className="w-5 h-5 text-[#00B8E6] flex-shrink-0 mt-1" />
-                <p className="text-[#CFCFD5] text-sm">ea@happimisspageant.com</p>
+                <p className="text-[#CFCFD5] text-sm">ea@happimissglobal.com
+</p>
               </div>
               <div className="flex items-start space-x-3">
                 <Phone className="w-5 h-5 text-[#00B8E6] flex-shrink-0 mt-1" />
@@ -99,7 +100,7 @@ Bengaluru, Karnataka</p>
 
         <div className="border-t border-[#8B4DFF]/20 pt-8">
           <p className="text-center text-[#CFCFD5] text-sm">
-            © 2025 HAPPI Miss GLOBAL. All rights reserved. Empowering elegance and confidence worldwide.
+            © 2025 Happi Miss Global. All rights reserved. Empowering elegance and confidence worldwide.
           </p>
         </div>
       </div>
