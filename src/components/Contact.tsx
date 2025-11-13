@@ -94,7 +94,8 @@ export default function Contact() {
                   </div>
                   <div>
                     <h4 className="text-white font-semibold mb-1">Email</h4>
-                    <p className="text-[#CFCFD5]">ea@happimisspageant.com</p>
+                    <p className="text-[#CFCFD5]">ea@happimissglobal.com
+</p>
                   </div>
                 </div>
 
