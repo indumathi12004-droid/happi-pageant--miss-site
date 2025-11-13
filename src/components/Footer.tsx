@@ -82,7 +82,7 @@ export default function Footer() {
             <div className="space-y-4">
               <div className="flex items-start space-x-3">
                 <MapPin className="w-5 h-5 text-[#00B8E6] flex-shrink-0 mt-1" />
-                <p className="text-[#CFCFD5] text-sm">The Beginning 
+                <p className="text-[#CFCFD5] text-sm">The Beginning,
 Bengaluru, Karnataka</p>
               </div>
               <div className="flex items-start space-x-3">
